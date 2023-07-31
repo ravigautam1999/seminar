@@ -1,0 +1,13 @@
+.main{
+  background-image: url("https://picsum.photos/id/984/900/500");
+  height: 360px;
+  width: 290px;
+}
+
+.media-icon {
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  align-items: center;
+  justify-content: space-evenly;
+}
+

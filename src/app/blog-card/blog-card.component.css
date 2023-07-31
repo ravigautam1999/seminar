@@ -1,0 +1,13 @@
+.card-title-style {
+  font-size: small;
+}
+
+.card-style{
+  width: 18rem;
+  box-shadow: 4px 5px 7px grey;
+}
+
+.card-text {
+ font-size: 14px;
+}
+
